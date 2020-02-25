@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="nextintent">Launch 2nd Intent</string>
+    <string name="secondactivity">Go Back To First Activity</string>
+    <string name="secondactvbtn">Go Back</string>
+</resources>
